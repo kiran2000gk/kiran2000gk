@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEndDeveloper 
 - 🌱 I’m currently learning React js 
 - 💞️ collaborate with my  Job 😉
-- 📫 How to reach me using Eamil id - kiran2000gk@gmail.com 
+- 📫 How to reach me using Email id - kiran2000gk@gmail.com 
 - 📱 +91 7795282824
 
 <!---
