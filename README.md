@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiran gk
 - 👀 I’m interested in Web Developer 
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning React js, Laravel and REST API
 - 📫 How to reach me using Email id - kiran2000gk@gmail.com 
 - 📱 +91 7795282824
 - https://www.linkedin.com/in/kiran-g-k/
